@@ -1,0 +1,26 @@
+{
+  "name": "ЭХО КУБОВ",
+  "short_name": "ЭХО КУБОВ",
+  "description": "3D-лабиринт на рейкастинге: собери осколки эха и выберись, пока тени не поймали тебя.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
